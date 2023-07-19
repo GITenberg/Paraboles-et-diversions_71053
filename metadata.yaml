@@ -1,0 +1,42 @@
+_repo: Paraboles-et-diversions_71053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-06-27'
+identifiers:
+  gutenberg: '71053'
+  lccn: '15021814'
+language: fr
+pgterms:marc904: https://archive.org/details/parabolesetdiver00mill
+pgterms:marc905: 20230324221307mille
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bP.-V. Stock et Cie., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Paraboles: Le premier critique. Comment le déluge eut lieu en vain.
+  Le miracle. La tentation de Ménéel. L''aveugle. Le Lapon délicat de la poitrine.
+  Don Juan au Paradis -- Quelques bêtes et gens: Journal d''un bœuf gras. Jimmy et
+  Wilkie. Monographie des pêcheurs à la ligne -- Le Radeau: Le radeau. Steck et monsieur
+  Scrofa. Une expérience -- Diversions: La Joconde. Courte Conversation avec un grand
+  Peintre. De l''éducation des filles. Pour servir, sous toutes réserves, à l''histoire
+  de Galilée. L''envers de Ponce-Pilate. Après l''orage. Méditations sur les parfums.
+  Le pays où on est né. Les compliments. La confrérie. Déménagement. L''Automne. De
+  l''intensité des moments. Les revenants.'
+title: Paraboles et diversions
+url: http://www.gutenberg.org/ebooks/71053
